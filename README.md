@@ -1,176 +1,133 @@
 <div align="center">
 
-<!-- Animated header SVG -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=160&section=header&text=Harshal%20Kaushik&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20Engineer&descAlignY=58&descColor=cbd5e1" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Radhika%20Sarraf&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=58&descSize=15&descColor=c4b5fd"/>
 
-</div>
-
-<br/>
-
-<!-- Typing animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+actionable+intelligence;Building+ML+pipelines+from+scratch+to+deploy;Python+%7C+TensorFlow+%7C+Sklearn+%7C+Streamlit;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG"/>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Building+AI-powered+web+experiences;Full-Stack+Dev+%7C+NIT+Jamshedpur+%7C+CGPA+7.8;LangChain+%7C+RAG+%7C+Next.js+%7C+Node.js;300%2B+DSA+Problems+%7C+GSSoC+Contributor" alt="Typing SVG" /></a>
 
 <br/>
 
-<div align="center">
+<p>
+  <a href="https://www.linkedin.com/in/radhika-sarraf"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="26"/></a>&nbsp;
+  <a href="mailto:radhikasarraf20@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="26"/></a>&nbsp;
+  <a href="https://github.com/radhikaa23"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" height="26"/></a>&nbsp;
+  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="26"/></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kaushikharshal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushikharshal)
-[![Email](https://img.shields.io/badge/Email-kaushikharshal02%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushikharshal02@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-harshal--kaushik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshal-kaushik)
+<img src="https://komarev.com/ghpvc/?username=radhikaa23&label=profile+views&color=6d28d9&style=flat-square"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👩‍💻 About Me
 
-python
-harshal = {
-    "role"      : "Data Science & ML Engineer",
-    "location"  : "India 🇮🇳",
-    "focus"     : ["Machine Learning", "Data Analysis", "Model Deployment"],
-    "currently" : "Building end-to-end ML pipelines",
-    "open_to"   : "Collaborations, Internships & Full-time Roles",
-    "motto"     : "No black boxes — understand the math, ship the model."
-}
+ts
+const radhika = {
+  education  : "B.Tech @ NIT Jamshedpur (2023–2027)  |  CGPA: 7.8",
+  location   : "Jamshedpur, Jharkhand, India",
+  focus      : ["Full-Stack Development", "AI/ML", "Open Source"],
+  building   : "AI-powered workflows & production-grade APIs",
+  learning   : ["LangChain", "RAG pipelines", "System Design"],
+  contact    : "radhikasarraf20@gmail.com",
+};
 
+
+---
+
+## 🚀 Featured Projects
+
+*⚡ NextFlow AI* — Visual AI Workflow Builder
+
+<p>
+  <a href="https://github.com/radhikaa23/Nextflow"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" height="24"/></a>&nbsp;
+  <a href="https://nextflow-gray-three.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white" height="24"/></a>
+</p>
+
+Full-stack AI workflow builder — users create, connect, and run node-based pipelines for AI content generation. Features a live visual editor with multimodal support (images, video, text prompts), Google Gemini API integration, Clerk auth, and PostgreSQL-backed workflow history.
+
+Next.js React TypeScript Tailwind CSS ReactFlow PostgreSQL Gemini API Clerk
+
+---
+
+*🛡️ Rate Limited API* — Secure Task Management System
+
+<p>
+  <a href="https://github.com/radhikaa23/Rate_limited_API"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" height="24"/></a>&nbsp;
+  <a href="https://your-demo-link-here.com"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white" height="24"/></a>
+</p>
+
+Production-grade rate-limited API with Redis token buckets, JWT auth, real-time analytics dashboard, request queueing, and failed-task retry handling. Containerized with Docker.
+
+Node.js Express.js Redis MongoDB Docker JWT React Tailwind CSS
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+*Languages*
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts" height="36"/>
+</p>
 
-*Languages & Core*
+*Frontend*
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="36"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+*Backend & Databases*
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,redis" height="36"/>
+</p>
 
-*Machine Learning & Deep Learning*
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-*Data & Visualization*
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-*Deployment & Tools*
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+*AI / ML & Tools*
+<p>
+  <img src="https://skillicons.dev/icons?i=python,docker,git,github,vscode" height="36"/>
+  &nbsp;<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="20"/>
+  &nbsp;<img src="https://img.shields.io/badge/RAG-6d28d9?style=flat-square&logoColor=white" height="20"/>
+  &nbsp;<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" height="20"/>
+</p>
 
 ---
 
-## 📂 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Indian Startup Funding Analysis
-> End-to-end EDA + interactive dashboards on India's startup ecosystem. Built with Pandas for wrangling and Streamlit for live exploration.
-
-*Stack:* Python Pandas Streamlit Plotly
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C2FF?style=flat-square)](https://your-streamlit-link-here)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔁 Customer Churn Prediction
-> ANN-powered pipeline to classify churn risk and support proactive retention. Trained with TensorFlow end-to-end.
-
-*Stack:* TensorFlow Keras Sklearn Python
-
-[![View Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)](https://github.com/harshal-kaushik/Simple-ANN-Project)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ ML Algorithms from Scratch
-> Implementing core ML models without high-level wrappers — regression, classification, clustering and more. Pure math → code.
-
-*Stack:* Python NumPy Sklearn
-
-[![View Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)](https://github.com/harshal-kaushik/ML-Algorithms)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔬 More Coming Soon...
-> Currently working on new projects involving NLP and time-series forecasting.
-
-*Status:* 🛠️ In Progress
-
-[![GitHub](https://img.shields.io/badge/Follow_for_updates-181717?style=flat-square&logo=github)](https://github.com/harshal-kaushik)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshal-kaushik&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=6366f1&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-kaushik&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=harshal-kaushik&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38bdf8&fire=6366f1&currStreakLabel=38bdf8)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm actively looking for opportunities in *Data Science, **ML Engineering, and **AI-driven product teams*.
-If you're working on something interesting — let's talk.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=radhikaa23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=38bdf8&text_color=ffffff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhikaa23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushikharshal)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushikharshal02@gmail.com)
-
-<br/>
-
-"The goal is not to be clever — it's to be useful."
+[![GitHub Streak](https://streak-stats.demolab.com?user=radhikaa23&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=38bdf8&currStreakLabel=ffffff)](https://git.io/streak-stats)
 
 </div>
 
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer" width="100%"/>
-<!--
-**radhikaa23/radhikaa23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🏆 Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| | |
+|:--|:--|
+| 💻 *LeetCode* | 300+ problems — Arrays, Trees, Graphs, DP |
+| 🌸 *GSSoC 2025* | Open-Source Contributor @ GirlScript Summer of Code |
+| 🎯 *Adobe Hackathon 2025* | Participated in Adobe India Hackathon |
+| 🛍️ *Flipkart Runway S5* | Selected for Flipkart Runway Season 5 |
+| 🏆 *Competitive Programming* | Top-ranked in multiple CP contests |
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=radhikaa23&bg_color=0D1117&color=a78bfa&line=38bdf8&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+
+</div>
