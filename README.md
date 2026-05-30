@@ -29,7 +29,8 @@ I'm a Full Stack Developer and AI/ML Engineer passionate about building scalable
 * 🧩 Consistently solving DSA and algorithmic problems in C++
 * 🚀 Interested in AI Agents, RAG Systems, and scalable software architecture
 * 🤝 Open to internships, collaborations, and exciting opportunities
- 📫 Reach me at: radhikasarraf20@gmail.com
+* 📫 Reach me at: radhikasarraf20@gmail.com
+                
 
 
 ---
