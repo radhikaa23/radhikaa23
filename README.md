@@ -22,16 +22,14 @@
 
 ## 👩‍💻 About Me
 
-ts
-const radhika: Developer = {
-  degree     : "B.Tech @ NIT Jamshedpur (2023–2027)  |  CGPA: 7.8",
-  location   : "Jamshedpur, Jharkhand, India",
-  stack      : ["Next.js", "Node.js", "PostgreSQL", "MongoDB", "TypeScript"],
-  currently  : "Integrating AI into full-stack apps using LangChain & RAG",
-  exploring  : ["LLM Pipelines", "Retrieval-Augmented Generation", "System Design"],
-  achieved   : "300+ LeetCode problems  |  GSSoC 2025  |  Adobe Hackathon",
-  contact    : "radhikasarraf20@gmail.com",
-};
+I'm a Full Stack Developer and AI/ML Engineer passionate about building scalable web applications and intelligent systems. I enjoy turning ideas into real-world products, from designing user-friendly interfaces to developing backend services and AI-powered solutions. Alongside development, I consistently practice Data Structures and Algorithms to strengthen my problem-solving skills and software engineering fundamentals.
+
+* 💻 Building Full Stack Applications using modern web technologies
+* 🤖 Exploring Machine Learning, Deep Learning, and LLM-based systems
+* 🧩 Consistently solving DSA and algorithmic problems in C++
+* 🚀 Interested in AI Agents, RAG Systems, and scalable software architecture
+* 🤝 Open to internships, collaborations, and exciting opportunities
+ 📫 Reach me at: radhikasarraf20@gmail.com
 
 
 ---
